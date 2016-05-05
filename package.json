@@ -1,0 +1,33 @@
+{
+  "name": "prom-quest",
+  "version": "1.0.0",
+  "description": "Simple request package for node that uses es6 promises",
+  "main": "request.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devor/prom-quest.git"
+  },
+  "author": {
+    "email": "davedevor@gmail.com",
+    "name": "Dave Devor"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devor/prom-quest/issues"
+  },
+  "homepage": "https://github.com/devor/prom-quest#readme",
+  "keywords": [
+    "node http",
+    "node https",
+    "request",
+    "request promise",
+    "request client",
+    "prom quest"
+  ],
+  "dependencies": {
+    "es6-promise": "^3.1.2"
+  }
+}
